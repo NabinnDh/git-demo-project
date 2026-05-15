@@ -2,6 +2,7 @@
 User-agent: *
 Disallow: /admin/
 Disallow: /private/
-Allow: /
+allow: /
+Disallow: /test
 
 # Practice update v1
