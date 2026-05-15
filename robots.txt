@@ -1,0 +1,6 @@
+# Demo robots file
+User-agent: *
+Disallow: /admin/
+Allow: /
+
+# Practice update v1
